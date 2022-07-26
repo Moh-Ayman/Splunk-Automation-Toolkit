@@ -1,0 +1,8 @@
+{
+	"HOST" : "<Splunk URL>",
+	"PORT" : "<Splunk Port>",
+	"USERNAME" : "<Splunk Username>",
+	"PASSWORD" : "<Splunk Password>",
+	"OWNER" : "<Splunk Username>",
+	"APP" : "<SplunkAPP>"
+}

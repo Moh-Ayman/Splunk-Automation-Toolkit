@@ -1,0 +1,2 @@
+Output_Result_Absolute_Path,Search,Earliest,Latest,Desc
+./SplunkSearch_1.csv,index=_internal  | table _time host source sourcetype index _raw,-5min,now,Search in Internal Logs

@@ -1,8 +1,0 @@
-{
-	"HOST" : "192.168.226.168",
-	"PORT" : "8089",
-	"USERNAME" : "admin",
-	"PASSWORD" : "splunk",
-	"OWNER" : "admin",
-	"APP" : "mohayman_app"
-}

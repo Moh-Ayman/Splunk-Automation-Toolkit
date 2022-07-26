@@ -1,2 +1,0 @@
-NAME,QUERY,DESC,IS_VISIBLE,IS_SCHEDULED,CRON_SCHEDULE,EARLIEST_TIME,LATEST_TIME
-Backfilling_ss_1,index=_internal | timechart span=1min count | collect index=main source=intrenal5min sourcetype=intrenal5min,Backfilling_ss_1,TRUE,TRUE,* */5 * * *,-7m@m,-2m@m
