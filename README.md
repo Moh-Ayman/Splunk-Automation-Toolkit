@@ -1,4 +1,4 @@
-# SPLUNK_ToolKit
+# Splunk_ToolKit
 Splunk ToolKit is a multiple python automation scripts that uses Splunk SDK to automate the manual operational tasks of: 
     1- Creating Splunk Savedserches
     2- Backfilling Summary Indexes
